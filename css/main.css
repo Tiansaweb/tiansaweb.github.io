@@ -907,7 +907,10 @@ top:52px;
   border-radius: 0;
   box-shadow: none;
 }
-
+.contact-icon{
+	position:relative;
+	top:-2px;
+}
 textarea.form-control {
   min-height: 180px;
   resize:none;
