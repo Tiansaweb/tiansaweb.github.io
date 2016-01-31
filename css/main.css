@@ -973,7 +973,7 @@ ul.address {
   margin-top:5px;
 }
 .footer-text{
-color:white;
+color:white !important;
 }
 
 #footer .social-icons {
