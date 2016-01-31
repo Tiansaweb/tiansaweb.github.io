@@ -975,6 +975,9 @@ ul.address {
 .footer-text{
 color:white !important;
 }
+a.footer-text{
+color:white !important;
+}
 
 #footer .social-icons {
   margin-top: 15px;
